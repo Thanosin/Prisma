@@ -4,7 +4,7 @@
  * el área total de cada uno de estos prismas. finalmente, mostramos todos los áreas totales de los prismas
  * que se han creado y pasamos a mostrarlos ordenados de mayor a menor según su área total.
  *
- * @author Tamara Alonso Perdomo
+ * @author Thanosin
  *
  */
 public class MainPrisma {
