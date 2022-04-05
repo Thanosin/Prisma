@@ -4,7 +4,7 @@
  * métodos que nos ayudan a hacer todos los cálculos necesarios para hallar la base total de un prisma. Por
  * último, también incluye varios getters y setters que nos permiten ver los valores del prisma.
  *
- * @author Tamara Alonso Perdomo
+ * @author Thanosin
  *
  */
 public class Prisma {
